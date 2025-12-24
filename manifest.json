@@ -17,8 +17,8 @@
     },
     {
       "path": ".git/COMMIT_EDITMSG",
-      "hash": "792e138c1843b74ef6eb9d139d2dfd4a99b7d964d73d5462cda11be70328ffea",
-      "size": 30,
+      "hash": "9b2102053570cf7ded889d64d64fa50d4431a91ea6ec77d5ea323479b9a3c1b3",
+      "size": 18,
       "url": "https://fabiannavarroo.github.io/modpack/.git/COMMIT_EDITMSG",
       "side": "both"
     },
@@ -45,7 +45,7 @@
     },
     {
       "path": ".git/index",
-      "hash": "a57389d35b390abfdf35e854bc73c1439442637cde0991cc075721fb5353cae5",
+      "hash": "b9779ebfafb76596e6c368e1a98c3cf705480a0fc45f50cd22ef49b3187f910d",
       "size": 1865,
       "url": "https://fabiannavarroo.github.io/modpack/.git/index",
       "side": "both"
@@ -157,22 +157,22 @@
     },
     {
       "path": ".git/logs/HEAD",
-      "hash": "10fcb16708be9fd40e0756c0c95c1138296ca0f13ff125add8df87697bd14af2",
-      "size": 330,
+      "hash": "893916794d106661000da02424ed9f925d3cf3830ff159e40ec9f6fdfe9ea8f5",
+      "size": 482,
       "url": "https://fabiannavarroo.github.io/modpack/.git/logs/HEAD",
       "side": "both"
     },
     {
       "path": ".git/logs/refs/heads/main",
-      "hash": "10fcb16708be9fd40e0756c0c95c1138296ca0f13ff125add8df87697bd14af2",
-      "size": 330,
+      "hash": "893916794d106661000da02424ed9f925d3cf3830ff159e40ec9f6fdfe9ea8f5",
+      "size": 482,
       "url": "https://fabiannavarroo.github.io/modpack/.git/logs/refs/heads/main",
       "side": "both"
     },
     {
       "path": ".git/logs/refs/remotes/origin/main",
-      "hash": "cd2262c90c2d8bcf69ade0ce86ca2cbd8fdcd6d10b54df0b5b177707dcbc62c1",
-      "size": 282,
+      "hash": "ee5c3243878589ed07c27a701dc1ac51d7bf58d0cce256f43f7a836132a75629",
+      "size": 423,
       "url": "https://fabiannavarroo.github.io/modpack/.git/logs/refs/remotes/origin/main",
       "side": "both"
     },
@@ -212,6 +212,13 @@
       "side": "both"
     },
     {
+      "path": ".git/objects/21/e8382e60a6fd218a6f67aa6920d0a4e4536d50",
+      "hash": "f5d6f9496add63d58f498bd8ceb07c8db6051a7270aa8f43473bf07fea049e1d",
+      "size": 154,
+      "url": "https://fabiannavarroo.github.io/modpack/.git/objects/21/e8382e60a6fd218a6f67aa6920d0a4e4536d50",
+      "side": "both"
+    },
+    {
       "path": ".git/objects/22/61db06b2507e0a595452254ef44f89d3cbed42",
       "hash": "2a74235faf484939d6a22d68911d704e4f814526c14787bcc24371bed1c532d0",
       "size": 336658,
@@ -230,6 +237,13 @@
       "hash": "6b1b18481baf5561948398a9a6e1aa52c3e4b135e443381fb2e25ec8bb88c8d0",
       "size": 338975,
       "url": "https://fabiannavarroo.github.io/modpack/.git/objects/2b/43cdf0f278fa60abcb78690d3b08bd7a7ea262",
+      "side": "both"
+    },
+    {
+      "path": ".git/objects/3e/df1bd992a612340cc0d0db02bd85242ff17352",
+      "hash": "ea26c01ae619b316975e3362f6b7b27e6acf9f8ec09c105055f349c53a1c13b8",
+      "size": 5090,
+      "url": "https://fabiannavarroo.github.io/modpack/.git/objects/3e/df1bd992a612340cc0d0db02bd85242ff17352",
       "side": "both"
     },
     {
@@ -317,6 +331,13 @@
       "side": "both"
     },
     {
+      "path": ".git/objects/d3/117f61a704c6c0e804e4095076ecc1da3922db",
+      "hash": "23e546920effe5da2cb1931b5de501f11cc7779ba06345cfef4966a3a43a17c2",
+      "size": 160,
+      "url": "https://fabiannavarroo.github.io/modpack/.git/objects/d3/117f61a704c6c0e804e4095076ecc1da3922db",
+      "side": "both"
+    },
+    {
       "path": ".git/objects/ea/15666522425926391b5f625354ee485a1e9595",
       "hash": "081b288760bf894e76bf920317259d0dc62cde56597b2a48283a3a10b0c603b7",
       "size": 66,
@@ -339,14 +360,14 @@
     },
     {
       "path": ".git/refs/heads/main",
-      "hash": "39728ddcc77632016bf852317c199e75b8095703b4934c22ef55bb02b045e666",
+      "hash": "afb7d57e2334877100fb62501dc756e0b5c1fb5ddb70f5304eb00e4a67f5d557",
       "size": 41,
       "url": "https://fabiannavarroo.github.io/modpack/.git/refs/heads/main",
       "side": "both"
     },
     {
       "path": ".git/refs/remotes/origin/main",
-      "hash": "39728ddcc77632016bf852317c199e75b8095703b4934c22ef55bb02b045e666",
+      "hash": "afb7d57e2334877100fb62501dc756e0b5c1fb5ddb70f5304eb00e4a67f5d557",
       "size": 41,
       "url": "https://fabiannavarroo.github.io/modpack/.git/refs/remotes/origin/main",
       "side": "both"
@@ -458,6 +479,9 @@
     }
   ],
   "ignore": [
+    "README.md",
+    ".git/*",
+    ".gitignore",
     "options.txt",
     "servers.dat",
     "logs/*",
