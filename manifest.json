@@ -1,0 +1,126 @@
+{
+  "packId": "custom-pack",
+  "version": "1.0.0",
+  "minecraftVersion": "1.20.1",
+  "neoforgeInstallerUrl": "https://fabiannavarroo.github.io/modpack/launcher/neoforge-installer.jar",
+  "loader": {
+    "type": "fabric",
+    "version": "0.14.22"
+  },
+  "files": [
+    {
+      "path": "launcher/neoforge-installer.jar",
+      "hash": "2f6b728aa99646a697eb0755ce770e945f95090c4248eb58f558ac0e2e3578c6",
+      "size": 6953727,
+      "url": "https://fabiannavarroo.github.io/modpack/launcher/neoforge-installer.jar",
+      "side": "both"
+    },
+    {
+      "path": "mods/comforts-neoforge-9.0.4+1.21.1.jar",
+      "hash": "44bd6844dbba3a2e2d9b1e382e9ad7e00fc2956bb36e065d634c9ba0bfde0e9a",
+      "size": 422519,
+      "url": "https://fabiannavarroo.github.io/modpack/mods/comforts-neoforge-9.0.4+1.21.1.jar",
+      "side": "both"
+    },
+    {
+      "path": "mods/corpse-neoforge-1.21.1-1.1.13.jar",
+      "hash": "f61e750eb2cb49867483d34d6630e02597a52e41680fc38d1c65ece4ef36fd2b",
+      "size": 253695,
+      "url": "https://fabiannavarroo.github.io/modpack/mods/corpse-neoforge-1.21.1-1.1.13.jar",
+      "side": "both"
+    },
+    {
+      "path": "mods/create-1.21.1-6.0.8.jar",
+      "hash": "5f2d593a9cee2403f0c5bde06c59df8378f57e5d2314fed9fffd32d0281a6de1",
+      "size": 19001557,
+      "url": "https://fabiannavarroo.github.io/modpack/mods/create-1.21.1-6.0.8.jar",
+      "side": "both"
+    },
+    {
+      "path": "mods/embeddium-1.0.15+mc1.21.1.jar",
+      "hash": "3aac4c4c6e82d78d8dda4c611d68c672d1061b42bb6954331e3c2e7f14c451e1",
+      "size": 1048745,
+      "url": "https://fabiannavarroo.github.io/modpack/mods/embeddium-1.0.15+mc1.21.1.jar",
+      "side": "both"
+    },
+    {
+      "path": "mods/ferritecore-7.0.2-neoforge.jar",
+      "hash": "235e2081dfe050d7642b0d432a786668f079168505ba5d6bf0ec70c962a36539",
+      "size": 118911,
+      "url": "https://fabiannavarroo.github.io/modpack/mods/ferritecore-7.0.2-neoforge.jar",
+      "side": "both"
+    },
+    {
+      "path": "mods/gravestone-neoforge-1.21.1-1.0.35.jar",
+      "hash": "6a65c222dae1d524c5dcf06a0ac759d3f6c6cef41f0e7b08be665d688d4105b0",
+      "size": 318685,
+      "url": "https://fabiannavarroo.github.io/modpack/mods/gravestone-neoforge-1.21.1-1.0.35.jar",
+      "side": "both"
+    },
+    {
+      "path": "mods/ImmediatelyFast-NeoForge-1.6.9+1.21.1.jar",
+      "hash": "ab57fe7c34851aea7493ebc0b2d39a6c430c50607a69765719002d61129f6a85",
+      "size": 367790,
+      "url": "https://fabiannavarroo.github.io/modpack/mods/ImmediatelyFast-NeoForge-1.6.9+1.21.1.jar",
+      "side": "both"
+    },
+    {
+      "path": "mods/ironchest-1.21-neoforge-16.0.7.jar",
+      "hash": "dae66a38a33c2adac6ca0b7a4fbf4b365ba37a6a1f7a10961028617965c1fcaf",
+      "size": 305975,
+      "url": "https://fabiannavarroo.github.io/modpack/mods/ironchest-1.21-neoforge-16.0.7.jar",
+      "side": "both"
+    },
+    {
+      "path": "mods/jei-1.21.1-neoforge-19.25.1.332.jar",
+      "hash": "b5d896154aa0f99f1087aad3e85bb98c1f2ed9c1f0549be558c135939533c0a9",
+      "size": 1517028,
+      "url": "https://fabiannavarroo.github.io/modpack/mods/jei-1.21.1-neoforge-19.25.1.332.jar",
+      "side": "both"
+    },
+    {
+      "path": "mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+      "hash": "83f1701f7802d4355e57f73c2751b29e4b760a4e2a18427504bbd9ce7090a0c1",
+      "size": 43798,
+      "url": "https://fabiannavarroo.github.io/modpack/mods/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+      "side": "both"
+    },
+    {
+      "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "hash": "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd",
+      "size": 618842,
+      "url": "https://fabiannavarroo.github.io/modpack/mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+      "side": "both"
+    },
+    {
+      "path": "mods/modernfix-neoforge-5.25.1+mc1.21.1.jar",
+      "hash": "2dbcf6cd837fca938323dd55114e6c515a4bb1b644a746aad504dd8d43bb0b6d",
+      "size": 569818,
+      "url": "https://fabiannavarroo.github.io/modpack/mods/modernfix-neoforge-5.25.1+mc1.21.1.jar",
+      "side": "both"
+    },
+    {
+      "path": "mods/rubidium-extra-0.5.7e+mc1.21-build.132.jar",
+      "hash": "767d649a73832d84ea9c60424b1726e8cb73f527ea09f073cb5ed0a91900f235",
+      "size": 383418,
+      "url": "https://fabiannavarroo.github.io/modpack/mods/rubidium-extra-0.5.7e+mc1.21-build.132.jar",
+      "side": "both"
+    },
+    {
+      "path": "mods/voicechat-neoforge-1.21.1-2.6.9.jar",
+      "hash": "1a32e86cf3fe816dfa2f7948880dfdc58e0f52556e6c495ebda908968f503938",
+      "size": 4890351,
+      "url": "https://fabiannavarroo.github.io/modpack/mods/voicechat-neoforge-1.21.1-2.6.9.jar",
+      "side": "both"
+    }
+  ],
+  "ignore": [
+    "options.txt",
+    "servers.dat",
+    "logs/*",
+    "crash-reports/*",
+    "shaderpacks/*",
+    "saves/*",
+    "screenshots/*"
+  ]
+}
