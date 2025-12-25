@@ -1,6 +1,6 @@
 {
   "packId": "custom-pack",
-  "version": "1.1",
+  "version": "1.2",
   "minecraftVersion": "1.20.1",
   "neoforgeInstallerUrl": "https://fabiannavarroo.github.io/modpack/launcher/neoforge-installer.jar",
   "loader": {
@@ -65,13 +65,6 @@
       "side": "both"
     },
     {
-      "path": "mods/iris-flywheel-compat-NeoForge-2.0.5.jar",
-      "hash": "9271d36c52f4dd1759e4bdd80fb61f5bdf8abfbd16f43cc22761a67d25cd83e7",
-      "size": 118696,
-      "url": "https://fabiannavarroo.github.io/modpack/mods/iris-flywheel-compat-NeoForge-2.0.5.jar",
-      "side": "both"
-    },
-    {
       "path": "mods/iris-neoforge-1.8.12+mc1.21.1.jar",
       "hash": "3e3f94d2d5cdcb8145c4385d521974aa2d8669b2cc212351f70cf06488182e83",
       "size": 2438548,
@@ -118,13 +111,6 @@
       "hash": "767d649a73832d84ea9c60424b1726e8cb73f527ea09f073cb5ed0a91900f235",
       "size": 383418,
       "url": "https://fabiannavarroo.github.io/modpack/mods/rubidium-extra-0.5.7e+mc1.21-build.132.jar",
-      "side": "both"
-    },
-    {
-      "path": "mods/sodium-neoforge-0.6.0+mc1.21.1.jar",
-      "hash": "fb178004f4a942735029c57ef5556bc3c83ce6c1d8344b6ecdfcc651148535f6",
-      "size": 1148443,
-      "url": "https://fabiannavarroo.github.io/modpack/mods/sodium-neoforge-0.6.0+mc1.21.1.jar",
       "side": "both"
     },
     {
