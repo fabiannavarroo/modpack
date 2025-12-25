@@ -22,8 +22,9 @@ Para que los archivos se puedan descargar, ve a:
 3.  **Regenerar Manifest**:
     Abre una terminal en `C:\Users\faby\Downloads\mine_launch` (un nivel arriba) y ejecuta:
     ```powershell
-    python server/gen_manifest.py --base-url "https://fabiannavarroo.github.io/modpack" --input-dir "MyPack" --neoforge-url "https://fabiannavarroo.github.io/modpack/launcher/neoforge-installer.jar"
+    python server/gen_manifest.py --base-url "https://fabiannavarroo.github.io/modpack" --input-dir "MyPack" --pack-version "1.1.0" --neoforge-url "https://fabiannavarroo.github.io/modpack/launcher/neoforge-installer.jar"
     ```
+    *(Cambia "1.1.0" por el número de versión que quieras).*
 4.  **Subir Cambios**:
     ```powershell
     cd MyPack
